@@ -1,6 +1,6 @@
 ---
 title : "Hello World"
-date : 2026-03-06 00:00:00
+date : 2026-06-03 00:00:00
 categories : [first]
 tags : [first blog]
 ---
