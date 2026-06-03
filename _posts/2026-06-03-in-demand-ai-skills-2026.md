@@ -36,7 +36,7 @@ A standard GenAI model instantly gives you a beautiful 7-day itinerary.
 * It cannot actually book anything for you.
 
 **That's when Agentic AI comes into the picture.** When you give it the same prompt, an autonomous multi-agent workflow triggers behind the scenes to plan, verify, and execute tasks dynamically rather than just generating static text.
-![agent](/assets/img/posts/agent.jpg)
+![agent](/assets/img/posts/agents.jpg)
 
 
 ### Technologies Used:
