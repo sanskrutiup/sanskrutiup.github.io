@@ -2,7 +2,7 @@
 title: "In-Demand AI Skills in 2026"
 date: 2026-06-03 18:30:00 +0530
 categories: [Tech Trends, Artificial Intelligence]
-tags: [ai, generative-ai, machine-learning, data-engineering, 2026]
+tags: [ai, generative-ai, machine-learning, data-engineering, "2026"]
 ---
 
 # In-Demand AI Skills in 2026
