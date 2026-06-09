@@ -12,8 +12,8 @@ Technology is embedded in our everyday routines here are Tech concepts explained
 ➜ Have you ever experienced waking up at a fixed set time even on a Sunday without an alarm when you so much wanted that sunday morning late hour sleep this is due to your circadian rhythm (internal clock) your brain subconsciously learns patterns and performs specific actions based on it
 
 Similarly, an advanced Machine learning concept **Pattern Recognition** works
-It is understanding regularities , structures, trends in data and taking suitable decisions
-commonly used in 
+It is understanding regularities , structures, trends in data and taking suitable decisions.
+Commonly used in 
 * Spam Email detection
 * Fraud detection 
 * Book recommendation
@@ -38,7 +38,7 @@ It is a concept in which decisions are made based on series of questions
 
 A classic example is loan approval system
 
-![image](/assets/img/posts/blog2\decision_tree.jpg)
+![image](/assets/img/posts/blog2/decision_tree.jpg)
 
 ➜ An important aspect in our life is exercising and maintaining a healthy lifestyle
 
